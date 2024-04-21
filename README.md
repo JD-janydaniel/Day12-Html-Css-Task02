@@ -8,5 +8,7 @@
   <li>I have developed the static web page</li>
   <li>And i have deployed the web page by using Netlify </li>
   <li>In the above process i have developed and deployed web page successfuly</li>
+  <h3>Deployment Link</h3>
+  <li>https://majestic-swan-00b121.netlify.app/</li>
 </ul>
 
